@@ -1,13 +1,9 @@
-# CB Messaging Blueprint 
+# CB Tutorial Blueprint
 
-This is a Messaging Blueprint.
+This is a Tutorial Blueprint.
 
 Screens:
-- Chat List 
-- Chat
-- Comments
-- Navigation
+
+- Main Tutorial
 
 Screenshots is included for reference
-
-

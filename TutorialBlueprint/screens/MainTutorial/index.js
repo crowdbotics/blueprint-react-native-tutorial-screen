@@ -11,7 +11,7 @@ const slides = [
     title: "Slide 1",
     titleStyle: styles.title,
     textStyle: styles.text,
-    image: require("./assets/images/smallLogo.png"),
+    image: require("../../../../assets/images/smallLogo.png"),
     backgroundColor: "#e74c3c"
   },
   {
@@ -20,7 +20,7 @@ const slides = [
     title: "Slide 2",
     titleStyle: styles.title,
     textStyle: styles.text,
-    image: require("./assets/images/darkThemeImage.png"),
+    image: require("../../../../assets/images/darkThemeImage.png"),
     imageStyle: styles.image,
     backgroundColor: "#0C265D"
   },
@@ -28,7 +28,7 @@ const slides = [
     key: "s3",
     text: "Intro Tutorial 3",
     title: "Slide 3",
-    image: require("./assets/images/lightThemeImage.png"),
+    image: require("../../../../assets/images/lightThemeImage.png"),
     titleStyle: styles.title,
     textStyle: styles.text,
     imageStyle: styles.image,
