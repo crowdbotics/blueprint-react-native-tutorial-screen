@@ -4,7 +4,7 @@ import MainTutorialScreen from "./screens/MainTutorial";
 import Home from "./screens/";
 
 
-export default createStackNavigator(
+export const TutorialNavigator = createStackNavigator(
   {
     MainTutorial: { screen: MainTutorialScreen },
     Home: { screen: Home },
